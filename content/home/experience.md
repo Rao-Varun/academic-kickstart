@@ -30,19 +30,25 @@ DUT(Device under test), android phones, network related
 devices, and tasks related to transport component of BTS tower.
   Responsibilities include:
  
-  *Contributed to multiple frameworks related to test automation
+  * Contributed to multiple frameworks related to test automation
 using ROBOT frameworks.
-  *Worked on automating the configuration web page which was
+
+  * Worked on automating the configuration web page which was
 used to authenticate, configure, and manage Nokia telecommunication
 devices using python-selenium.
-  *Worked on building a client-server based packet generator using
+
+  * Worked on building a client-server based packet generator using
 python’s library SCAPY.
-  *Wrote python script to generate TWAMP application layer protocol
+
+  * Wrote python script to generate TWAMP application layer protocol
 packet
-  *Automated android mobile operations using ADB and python.
-  *Wrote parsers in python to scan for ROBOT Framework variables in
+
+  * Automated android mobile operations using ADB and python.
+  
+  * Wrote parsers in python to scan for ROBOT Framework variables in
 text, json, xml files and replace them with with their respective values.
-  *Python script to extract details from network packets and analyse
+
+  * Python script to extract details from network packets and analyse
 them.
   """
 
