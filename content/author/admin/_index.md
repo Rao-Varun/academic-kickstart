@@ -62,11 +62,6 @@ interests = [
   link = "mailto:varun.rao@mavs.uta.edu"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
-  icon = "twitter"
-  icon_pack = "fab"
-  link = "https://twitter.com/GeorgeCushen"
-
-[[social]]
   icon = "linkedin-in"
   icon_pack = "fab"
   link = "https://www.linkedin.com/in/varun-s-rao-105435106/"
