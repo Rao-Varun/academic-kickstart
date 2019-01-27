@@ -1,22 +1,22 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Varun Subramanya Rao"
 
 # Is this the primary user of the site?
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "Software Developer"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "University Of Texas at Arlington", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include distributed robotics, mobile computing and programmable matter."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "varun.rao@mavs.uta.edu"
 
 # List (academic) interests or hobbies
 interests = [
@@ -27,14 +27,14 @@ interests = [
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "M.S in Computer Science"
+  institution = "University of Texas at Arlington, Arlington, Texas, U.S.A"
+  year = 2019
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "B.E in Computer Science"
+  institution = "Dayananda Sagar College of Engineering, Bengaluru, Karanataka, India "
+  year = 2016
 
 [[education.courses]]
   course = "BSc in Artificial Intelligence"
