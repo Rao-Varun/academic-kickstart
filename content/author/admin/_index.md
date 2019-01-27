@@ -36,10 +36,7 @@ interests = [
   institution = "Dayananda Sagar College of Engineering, Bengaluru, Karanataka, India "
   year = 2016
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+
 
 # Social/Academic Networking
 #
