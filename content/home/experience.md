@@ -25,9 +25,9 @@ date_format = "January 2006"
   location = "Bangalore"
   date_start = "2016-08-11"
   date_end = "2018-07-29"
-  description = "Built solutions to automate manual tasks required to operate
+  description = """Built solutions to automate manual tasks required to operate
 DUT(Device under test), android phones, network related
-devices, and tasks related to transport component of BTS tower."
+devices, and tasks related to transport component of BTS tower.
   Responsibilities include:
  
   *Contributed to multiple frameworks related to test automation
