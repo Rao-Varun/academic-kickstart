@@ -67,9 +67,9 @@ interests = [
   link = "https://twitter.com/GeorgeCushen"
 
 [[social]]
-  icon = "google-scholar"
-  icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  icon = "linkedin-in"
+  icon_pack = "fab"
+  link = "https://www.linkedin.com/in/varun-s-rao-105435106/"
 
 [[social]]
   icon = "github"
