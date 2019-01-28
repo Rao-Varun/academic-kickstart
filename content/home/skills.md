@@ -50,6 +50,12 @@ weight = 7
   icon_pack = "fas"
   name = "html"
   description = ""
+  
+[[feature]]
+  icon = "laptop-code"
+  icon_pack = "fas"
+  name = "C, C++"
+  description = ""
 
 [[feature]]
   icon = "database"
@@ -58,16 +64,28 @@ weight = 7
   description = ""
 
 [[feature]]
-  icon = "code-merge"
-  icon_pack = "fas"
+  icon = "git"
+  icon_pack = "fab"
   name = "git"
   description = ""
 
 [[feature]]
   icon = "ethernet"
   icon_pack = "fas"
-  name = "TCPIP"
-  description = "TCP-IP"
+  name = "TCP-IP"
+  description = ""
+  
+[[feature]]
+  icon = "uniregistry"
+  icon_pack = "fab"
+  name = "Unix"
+  description = ""
+  
+[[feature]]
+  icon = "windows"
+  icon_pack = "fab"
+  name = "windows"
+  description = ""
 
 
 +++
