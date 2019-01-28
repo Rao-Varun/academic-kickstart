@@ -80,6 +80,13 @@ interests = [
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Software Developer with a lot of love for coding. I have an experience of 2 years in the Software Industry but I have been learning and coding for a very long time.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My preferred language is Python but I can code in other language as well. Recently I have found interest in full stack development. 
+
+My experience in industry level programming was in NOKIA. I learnt how to write codes that can automate manual tasks required to operate any DUT(Device under test), 
+traffic analyzers, traffic impairment, IPSec decryptions, packet generation, tasks related to transport component of BTS tower. Here I was appreciated for the solutions I offered, keeping my codes clean and keeping it up to the industry standard. 
+
+I have a Bachelors of Engineering degree in Computer Science and I am currently pursuing my Masters in the same field.
+
+Apart from my technical skills, I am friendly and an extrovert. I like to talk to new people and get to know about them. I am into fitness, video games and I am also part of Toastmasters. 
