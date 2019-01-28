@@ -72,13 +72,13 @@ weight = 7
 [[feature]]
   icon = "ethernet"
   icon_pack = "fas"
-  name = "TCP-IP"
+  name = "tcp-ip"
   description = ""
   
 [[feature]]
   icon = "uniregistry"
   icon_pack = "fab"
-  name = "Unix"
+  name = "unix"
   description = ""
   
 [[feature]]
