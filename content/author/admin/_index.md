@@ -19,7 +19,7 @@ bio = "My research interests include distributed robotics, mobile computing and 
 email = "varun.rao@mavs.uta.edu"
 
 # List (academic) interests or hobbies
-Specialization = [
+interests = [
   "Artificial Intelligence",
   "Database Management Systems",
   "Software Engineering"
